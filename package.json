@@ -1,0 +1,22 @@
+{
+  "name": "fruit_stats",
+  "version": "1.0.0",
+  "description": "A basic javascript wrapper for https://www.fruityvice.com/doc/index.html on fruit information and statistics.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "fruityvice",
+    "fruits",
+    "javascript",
+    "wrapper",
+    "api"
+  ],
+  "author": "CM [https://github.com/CassidyMabey]",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CassidyMabey/fruityvice-wrapper-javascript.git"
+  }
+}
