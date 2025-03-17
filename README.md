@@ -153,20 +153,3 @@ The API returns fruit objects with the following structure:
 }
 ```
 
-
-
-## Error Handling
-
-All methods throw descriptive errors that can be caught using try/catch or promise catch blocks.
-
-## License
-
-MIT
-
-## Author
-
-CM ([GitHub](https://github.com/CassidyMabey))
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/CassidyMabey/fruit_stats/issues).
